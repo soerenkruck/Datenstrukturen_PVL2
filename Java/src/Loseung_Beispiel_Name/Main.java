@@ -11,11 +11,12 @@ public class Main {
 
         pvl2_g33.disenroll_student(2);
 
-        pvl2_g33.enroll_student("Dörte", "Finnja");
-        pvl2_g33.enroll_student("Finnja", "Wittig");
+        pvl2_g33.enroll_student("Dörte", "Kruck");
+        pvl2_g33.enroll_student("Ben", "Burkhardt");
 
         pvl2_g33.take_exam(4, "Informatik", 5.0f);
         pvl2_g33.take_exam(4, "Informatik", 5.0f);
+        pvl2_g33.take_exam(4, "Deutsch", 1.0f);
         pvl2_g33.take_exam(4, "Informatik", 3.0f);
 
         System.out.println(pvl2_g33.get_database());
