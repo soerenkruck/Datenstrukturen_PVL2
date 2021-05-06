@@ -1,6 +1,8 @@
-package Loseung_Beispiel_Name;
+package Loseung_G33;
 
 public class Main {
+
+    // Diese Klasse ist nur zum Testen.
 
     public static void main(String[] args) {
         PVL2_G33 pvl2_g33 = new PVL2_G33();

@@ -1,4 +1,4 @@
-package Loseung_Beispiel_Name;
+package Loseung_G33;
 
 import java.util.ArrayList;
 import java.util.List;
